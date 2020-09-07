@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "pen blue",
+            "price": 4.80
+        },
+        {
+            "id": 2,
+            "name": "smartphone",
+            "price": 1288.00
+        },
+        {
+            "id": 3,
+            "name": "notebook Acer",
+            "price": 3850.00
+        }
+    ]
+}
