@@ -8,3 +8,7 @@
 .sidenav i {
     padding-right: 1rem;
 }
+.content-home {
+    padding: 1rem;
+    background-color: rgb(255, 255, 255);
+}
