@@ -13,8 +13,8 @@ import { Router } from '@angular/router';
 export class ProductCreateComponent implements OnInit {
 
   product: Product = {
-    name: 'test product',
-    price: 88.20
+    name: '',
+    price: null
   }
 
   constructor(private productService: ProductService, private router: Router) { }
